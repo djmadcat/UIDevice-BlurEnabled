@@ -1,0 +1,6 @@
+platform :ios, '5.0'
+
+xcodeproj 'UIDevice-BlurEnabled'
+
+pod 'UIView-JTViewToImage', '~> 0.1'
+pod 'OBShapedButton', '~> 1.0.2'
